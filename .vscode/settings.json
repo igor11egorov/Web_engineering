@@ -1,0 +1,19 @@
+{
+  "sqltools.connections": [
+    {
+      "mysqlOptions": {
+        "authProtocol": "default",
+        "enableSsl": "Disabled"
+      },
+      "ssh": "Disabled",
+      "previewLimit": 50,
+      "server": "ich-db.edu.itcareerhub.de",
+      "port": 3306,
+      "driver": "MySQL",
+      "name": "ich",
+      "username": "ich1",
+      "password": "password",
+      "database": "northwind"
+    }
+  ]
+}
