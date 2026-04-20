@@ -1,0 +1,6 @@
+first_name,last_name,birthdate,hire_date,salary,email
+Ivan,Ivanov,1990-05-12,2020-03-01,50000.0,ivan.ivanov@example.com
+Anna,Petrova,1985-11-23,2018-07-15,65000.5,anna.petrova@example.com
+Sergey,Sidorov,1992-02-10,2021-01-10,48000.75,sergey.sidorov@example.com
+Elena,Smirnova,1988-09-05,2019-10-20,72000.0,elena.smirnova@example.com
+Dmitry,Kuznetsov,1995-06-30,2022-06-01,45000.0,dmitry.kuznetsov@example.com
